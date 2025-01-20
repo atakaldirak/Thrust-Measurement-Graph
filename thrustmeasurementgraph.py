@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget, QPushButton, QFileDialog, QLabel
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 import numpy as np
-
+# NABER 
 class PlotWindow(QMainWindow):
     def __init__(self):
         super().__init__()
