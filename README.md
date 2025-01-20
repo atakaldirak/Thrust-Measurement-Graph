@@ -13,4 +13,5 @@ This project visualizes **thrust-time** data collected from a rocket or propulsi
 
 ## 📊 How Should The Text File Look Like ?
 ![Plot Preview](datatxt.png)
-Time in milliseconds on the left, time in grams on the right. Note the commas and periods.
+
+Time in milliseconds on the left, time in grams on the right. Note the commas and periods. And name the file as "DATA.txt"
