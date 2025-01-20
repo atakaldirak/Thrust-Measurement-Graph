@@ -10,5 +10,3 @@ This project visualizes **thrust-time** data collected from a rocket or propulsi
 
 ## 🖥️ Preview
 ![Plot Preview](screenshot.png)  
-
-## 🛠️ Installation
