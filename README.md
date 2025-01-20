@@ -10,3 +10,7 @@ This project visualizes **thrust-time** data collected from a rocket or propulsi
 
 ## 🖥️ Preview
 ![Plot Preview](screenshot.png)  
+
+## 📊 How Should The Text File Look Like ?
+![Plot Preview](datatxt.png)
+Time in milliseconds on the left, time in grams on the right. Note the commas and periods.
